@@ -8,5 +8,6 @@ public class GB2 {
 		double f = 10.12d;
 		boolean g = true;
 		char h = 'A';
+		boolean g = true;
 	}
 }
